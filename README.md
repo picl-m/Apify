@@ -8,7 +8,7 @@ This code relies on the expectation that there is no more than 1000 products, th
 The program will not work because the API in the fetch function is only an example.
 
 If the API URL is replaced by a real API the application can be ran with:
-``
+```
 npm install
 npm run dev
-``
+```
