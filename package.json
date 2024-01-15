@@ -1,0 +1,23 @@
+{
+  "name": "apify",
+  "version": "1.0.0",
+  "description": "apify task - api extractor",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/picl-m/Apify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/picl-m/Apify/issues"
+  },
+  "homepage": "https://github.com/picl-m/Apify#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
